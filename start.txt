@@ -1,0 +1,4 @@
+You must instaled the Jdk-27 but must rename to jdk-21 for start game
+on the C:\jdk-21
+
+only windows
